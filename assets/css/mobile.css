@@ -246,7 +246,7 @@ h2{
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    margin-top: 800rem;
+    margin-top: 714rem;
     background-color: rgb(253, 231, 253);
 }
 
@@ -275,7 +275,7 @@ h2{
     max-height: 300px;
     margin: 10px 0 auto;
     margin-bottom: 50px;
-    background-image: url("https://media.giphy.com/media/1X9cTljPQOcAnTNiX3/giphy.gif");
+    background-image: url("../img/BHS_3508.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -294,7 +294,7 @@ h2{
 } */
 
 
-/* .main-button-asists--container--2{
+.main-button-asists--container--2{
     position: absolute;
     display: block;
     width: 320px;
@@ -305,7 +305,7 @@ h2{
     left: calc(50% - 161px);
     top: calc(100% - 50px);
     /*Textos*/
-   /* font-size: 1.3rem;
+   font-size: 1.3rem;
     font-weight: 700;
     letter-spacing: 4px;
     border-radius: 100px;
@@ -313,7 +313,7 @@ h2{
     cursor: pointer;
     background-color: white;
     box-shadow: 0 8px 10px -6px rgba(32,32,32,.75);
-} */
+} 
 
 /* .span-confirm--asists--2{
     background-color: unset;
@@ -567,7 +567,7 @@ h2{
     height: auto;
     padding: 20px 20px;
     margin: 10px;
-    margin-top: 760rem;
+    margin-top: 778rem;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -577,7 +577,7 @@ h2{
 
 .main-info--container--7 h2{
     line-height: 1.5rem;
-    color: rgb(177, 160, 11);
+    color: rgb(255, 255, 255);
     font-family: 'Great Vibes', cursive;
     display: flex;
     justify-content:center;
