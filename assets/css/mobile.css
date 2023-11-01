@@ -44,7 +44,7 @@ header{
     flex-direction: column;
     /* justify-content: center; */
     width: 100%;
-    min-width: 390px;
+    min-width: 320px;
     height: 730px;
     /* align-items: center;
     text-align: center; */
@@ -61,9 +61,10 @@ header{
     header img {
     width: 350px;
     /* height: 200%px; */
+    max-width: 336px;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: -26px;
+    /* margin-left: -26px; */
     border: 10px solid rgba(255, 176, 229, 0.76);
     border-radius: 5%;
 } 
@@ -97,7 +98,7 @@ header{
 
 .header--title-container p{
     margin-top: 5px;
-    font-size: 6rem;
+    font-size: 5.5rem;
     font-weight: 500px;
     line-height: 5rem;
     color: rgb(255, 255, 255);
@@ -121,7 +122,7 @@ main{
 
 .main-exchange-container{
     width: 100%;
-    min-width: 390px;
+    min-width: 320px;
     height: auto;
     padding-bottom: 0px;
     text-align: center;
@@ -129,8 +130,8 @@ main{
 
 
 .main-exchange-container .backgroundImg {
-    width: 100%;
-    min-width: 411px;
+    width: 99%;
+    min-width: 320px;
     height: 700px;
     margin: 0 auto;
     margin-bottom: 50px;
@@ -217,7 +218,7 @@ h2{
     position: absolute;
     display: block;
     width: 750px;
-    max-width: 356px;
+    max-width: 346px;
     height: 200px;
     margin: 19px -9px;
     padding: 2px 2px;
@@ -499,10 +500,10 @@ h2{
 
 .main-info--container--5{
     position: absolute;
-    width: 100%;
+    width: 99%;
     min-width: 320px;
     height: 85%;
-    padding: 71px 26px;
+    padding: 53px 5px;
     margin-top: 419rem;
     background-color: rgb(255, 255, 255);
     background-image: url("https://us.123rf.com/450wm/peekeedee1/peekeedee11907/peekeedee1190700394/127591880-textura-o-fondo-de-tabl%C3%B3n-de-madera-de-color-rosa-pastel-de-color-rosa-pastel-fondo-o-textura-de.jpg");
@@ -547,13 +548,13 @@ h2{
 }
 
 .main-info--container--6 .backgroundImg-6 {
-    width: 115%;
-    min-width: 411px;
+    width: 100%;
+    min-width: 320px;
     height: 700px;
-    margin: 0 -17px;
+    margin: 0 1px;
     margin-bottom: -335px;
     /* margin-right: 8px; */
-    background-image: url("../img/BHS_3597.jpg");
+    background-image: url("../img/BHS_3288.jpg");
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -567,7 +568,7 @@ h2{
 .main-info--container--7{
     position: absolute;
     width: 100%;
-    min-width: 100px;
+    min-width: 320px;
     height: auto;
     padding: 20px 20px;
     margin: 10px;
@@ -601,8 +602,8 @@ h2{
 	padding: 3px 6px; /* Relleno del boton */
 	position: fixed;
 	/* bottom: 89px; */
-    top: 107px;
-    right: 253px;
+    top: 8px;
+    right: 104px;
 	transition: all 300ms ease 0ms;
 	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 	z-index: 99;
@@ -623,8 +624,8 @@ h2{
 		font-size: 14px;
 		padding: 3px 6px;
 		/* bottom: 89px; */
-	    right: 111px;
-    top: 112px;
+	    right: 80px;
+    top: 68px;
 	}
 } 
 
@@ -640,8 +641,8 @@ h2{
 	padding: 3px 6px; /* Relleno del boton */
 	position: fixed;
 	/* bottom: 23px; */
-    top: 107px;
-    right: 187px;
+    top: 8px;
+    right: 45px;
 	transition: all 300ms ease 0ms;
 	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 	z-index: 99;
@@ -663,7 +664,7 @@ h2{
 		font-size: 14px;
 		padding: 3px 6px;
 		/* bottom: 23px; */
-		right: 51px;
-    top: 112px;
+		right: 20px;
+    top: 68px;
 	}
 } 
